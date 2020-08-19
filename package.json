@@ -43,7 +43,7 @@
     "jWorkflow": "0.x.x",
     "xmlhttprequest": "1.4.2",
     "coverjs": "0.0.14",
-    "bower": "0.9.x"
+    "bower": "1.8.x"
   },
   "files": [
     "README.md",
