@@ -36,7 +36,7 @@
     "accounting" : "0.x.x"
   },
   "devDependencies": {
-    "connect": "2.3.6",
+    "connect": "3.7.0",
     "jsdom": "0.6.x",
     "cssmin": "0.3.1",
     "html-minifier": "0.4.5",
